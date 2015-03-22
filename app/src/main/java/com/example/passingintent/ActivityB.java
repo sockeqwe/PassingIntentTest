@@ -13,7 +13,7 @@ public class ActivityB extends ActionBarActivity {
     int value = getIntent().getIntExtra("val1", 0);
 
     TextView resultView = (TextView) findViewById(R.id.result);
-    resultView.setText("Result: "+Integer.toString(value));
+    resultView.setText("Result: "+value);
   }
 
 }
