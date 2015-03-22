@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">PassingIntent</string>
+
+  <string name="hello_world">Start 2. Activity with value 3</string>
+  <string name="action_settings">Settings</string>
+  <string name="title_activity_activity_b">ActivityB</string>
+</resources>
